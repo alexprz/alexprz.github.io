@@ -2,12 +2,12 @@
 layout: page
 permalink: /talks/
 title: Talks
-description: Talks I gave at conferences or as a guest at some lab.
+description: Talks I gave at conferences or as guest at teams' seminars.
 nav: true
 ---
 <!-- Date, What, Title, Materials -->
 
-**2021 September**
+**2021 October**
 – 1-hour talk to the [Causal Inference and Missing Data](https://misscausal.gitlabpages.inria.fr/misscausal.gitlab.io/index.html) team
 – Benchmarking missing-values approaches for predictive
 models on health databases
