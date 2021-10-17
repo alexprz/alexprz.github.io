@@ -8,12 +8,13 @@ middle_name:
 last_name: Perez-Lebel
 email: alexandre.perez@inria.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  The academic portfolio of Alexandre Perez-Lebel, Engineer and PhD Candidate at Inria.
+  I work on missing values in supervised learning with Marine Le Morvan and Gaël Varoquaux.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 
-icon: 🔥 # the emoji used as the favicon
+icon: # 🔥 # the emoji used as the favicon
 url: https://alexprz.github.io # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
