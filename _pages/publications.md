@@ -3,16 +3,16 @@ layout: page
 permalink: /publications/
 title: Publications
 description: Manuscripts I got involved into, from latest to oldest.
-years: [2020]
+years: [2022, 2020]
 # years: [1956, 1950, 1935, 1905]
 nav: true
 ---
 
-#### **Under review**
+<!-- #### **Under review**
 <div class="publications">
   <h2 class="year">Pending</h2>
   {% bibliography -f under_review %}
-</div>
+</div> -->
 
 <div style="height:50px"></div>
 
